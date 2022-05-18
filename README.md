@@ -1,7 +1,7 @@
 # TeleLeech
 ## [WIP] Bot written from scratch that uploads content to telegram
 
-### I willstart to work on it when my exams will be done (probably by the end of June)
+### I will start to work on it when my exams will be done (probably by the end of June)
 
 ### Features :
 + Only leech for the moment (because TD are gone)
@@ -17,3 +17,4 @@
 + Complete settings menu
 + Webpage (no Telegram mandatory)
 + [gimme more ideas 🥲](../../issues)
+
