@@ -1,7 +1,7 @@
-# TeleLeech
+# nextgen-leech
 ## [WIP] Bot written from scratch that uploads content to telegram
 
-### I will start to work on it when my exams will be done (probably by the end of June)
+### I will start to work on it on August maybe
 
 ### Features :
 + Only leech for the moment (because TD are gone)
